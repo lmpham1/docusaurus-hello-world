@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbonjour_le_monde=self.webpackChunkbonjour_le_monde||[]).push([[301],{9562:function(o){o.exports=JSON.parse('{"allTagsPath":"/docusaurus-hello-world/blog/tags","slug":"/docusaurus-hello-world/blog/tags/hola","name":"hola","count":1,"permalink":"/docusaurus-hello-world/blog/tags/hola"}')}}]);
