@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbonjour_le_monde=self.webpackChunkbonjour_le_monde||[]).push([[586],{6343:function(e){e.exports=JSON.parse('{"permalink":"/docusaurus-hello-world-sample/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
